@@ -2,4 +2,4 @@
 
 ⓒ 2022 Bondon Datta 
 
-Licensed under the [MIT License] (LICENSE).
+Licensed under the [MIT License](LICENSE).
